@@ -1,0 +1,5 @@
+{
+  "version": 2,
+  "alias": ["maps.franciscpd.dev"],
+  "builds": [{ "src": "index.html", "use": "@now/static" }]
+}
